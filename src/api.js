@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = process.env.REACT_APP_API_URL || 'https://wispy-flower-1251.ploomber.app';
+const API_URL = process.env.REACT_APP_API_URL || 'https://dashboard-backend-um4d.onrender.com';
 
 export const fetchData = async (filters = {}) => {
   try {
