@@ -1,4 +1,4 @@
-# BLACKCOFFER Dashboard
+# GLOBAL DASHBOARD
 
 A full-stack data visualization dashboard built with Flask (backend) and React (frontend) to analyze and visualize data trends.
 
