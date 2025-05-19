@@ -159,8 +159,8 @@ function App() {
       <Navbar bg="dark" variant="dark" expand="lg" className={`navbar-top ${sidebarOpen ? 'd-none d-lg-flex' : ''}`}>
         <Container fluid>
           <Navbar.Brand href="#home">
-            <Image src="/img/logo.jpeg" alt="BLACKCOFFER" height="30" className="d-inline-block align-top me-2" roundedCircle />
-            <span className="ms-2">BLACKCOFFER</span>
+            <Image src="/img/logo.jpeg" alt="KLYSTRON" height="30" className="d-inline-block align-top me-2" roundedCircle />
+            <span className="ms-2">KLYSTRON</span>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
