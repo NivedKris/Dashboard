@@ -227,7 +227,7 @@ function App() {
 
           {/* Footer */}
           <footer className="dashboard-footer">
-            <span>BLACKCOFFER © {new Date().getFullYear()}</span>
+            <span>KLYSTRON GLOBAL © {new Date().getFullYear()}</span>
           </footer>
         </Container>
       </div>
